@@ -1,7 +1,7 @@
 <?php
 // Database connection settings
 $host = 'localhost';
-$dbname = 'testdb';
+$dbname = 'prueba1db';
 $dbuser = 'ricardo';
 $dbpass = 'ricardo1';
 
